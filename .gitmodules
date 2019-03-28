@@ -1,0 +1,9 @@
+[submodule "themes/massively"]
+	path = themes/massively
+	url = https://github.com/curtistimson/hugo-theme-massively.git
+[submodule "themes/hugo-nederburg-theme"]
+	path = themes/hugo-nederburg-theme
+	url = https://github.com/appernetic/hugo-nederburg-theme
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/josephhutch/aether
