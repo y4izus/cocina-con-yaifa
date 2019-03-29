@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://cocina-con-yaifa.netlify.com/"
 languageCode = "en-us"
 title = "Cocina con Yaifa"
 theme = "aether"
