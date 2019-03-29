@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Cocina con Yaifa"
 theme = "aether"
+
+[params]
+description = "Aplicamos la técnica del ensayo-error a las recetas... hasta que conseguimos clavarlas!!"
